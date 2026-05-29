@@ -49,6 +49,7 @@ namespace ChatBOT.ChatBot
                 "Be cautious of emails asking for personal information. Always verify the sender's address before clicking any links.",
                 "Scammers often disguise themselves as trusted organisations. When in doubt, go directly to the official website.",
                 "Look out for urgent language like 'Your account will be closed!' this is a classic phishing tactic.",
+                "Be cautious of unexpected attachments, even when they appear to come from someone you know.",
                 "Hover over links before clicking to check if the URL looks suspicious or different from what you'd expect."
             },
             ["scam"] = new List<string>
