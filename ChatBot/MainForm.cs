@@ -220,9 +220,7 @@ _________        ___.                 _________                          .__  __
         //Initial prompt
         private void ShowWelcomePrompt()
         {
-            AppendLine("╔══════════════════════════════════════════════════════╗", Color.FromArgb(0, 180, 100));
-            AppendLine("║     Welcome to the CyberSecurity Awareness Bot!     ║", Color.FromArgb(0, 180, 100));
-            AppendLine("╚══════════════════════════════════════════════════════╝", Color.FromArgb(0, 180, 100));
+            AppendLine("CyberSecurity Awareness Bot", Color.FromArgb(0, 180, 100));
             AppendLine("");
             AppendBotMessage("Hello! Before we begin, please tell me your name.");
         }
