@@ -103,6 +103,7 @@ namespace ChatBOT.ChatBot
             ["frustrated"] = "I hear you this stuff can be tricky. Let me try to explain it clearly: ",
             ["confused"] = "No problem at all let me break this down simply for you: ",
             ["curious"] = "Great curiosity! The more you know, the safer you'll be. Here's the detail: ",
+            ["stressed"] = "Cybersecurity can seem complicated, but taking it one step at a time makes it manageable. ",
             ["interested"] = "Awesome! Being interested in cybersecurity is the first step to staying safe. ",
             ["unsure"] = "That's okay it's better to ask than to guess. Here's some guidance: "
         };
