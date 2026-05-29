@@ -251,8 +251,10 @@ _________        ___.                 _________                          .__  __
                 _nameEntered = true;
                 AppendUserMessage(input);
                 AppendLine("");
-                AppendBotMessage($"Hello, {input}!Welcome to your CyberSecurity Awareness Bot.");
-                AppendBotMessage("You can ask me about cybersecurity topics or click a quick topic button below.");
+                AppendBotMessage($"Hello, {input}! Welcome to your CyberSecurity Awareness Bot.");
+                AppendBotMessage("I'm here to help you learn about online safety and cybersecurity best practices.");
+                AppendBotMessage("You can ask me about passwords, phishing, scams, privacy, malware, VPNs, and more.");
+                AppendBotMessage("You can also click a quick topic button below to get started.");
                 AppendBotMessage("Type 'exit' at any time to quit.");
                 AppendLine("");
                 UpdateMemoryBar();
