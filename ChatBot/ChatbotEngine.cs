@@ -41,6 +41,7 @@ namespace ChatBOT.ChatBot
                 "Use strong passwords with a mix of uppercase, lowercase, numbers, and symbols. Never reuse passwords across accounts.",
                 "A good password is at least 12 characters long. Consider using a passphrase like 'Green$Horse!Mountain9'.",
                 "Enable a password manager to keep track of unique, complex passwords for every site you use.",
+                "Never share your password through email, text messages, or phone calls, even if the request appears legitimate.",
                 "Avoid using personal details like birthdays or names in your passwords attackers check those first!"
             },
             ["phishing"] = new List<string>
